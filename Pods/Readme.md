@@ -1,11 +1,11 @@
 **Ambassador Pod working**
 
-<img alt="Ambassador-Pod" width="730px" src="Ambassador.jpg" />
+<img alt="Ambassador-Pod" width="730px" src="images/Ambassador.jpg" />
 
 **Adaptor Pattern Pod working**
 
-<img alt="Adaptor Pattern Pod" width="730px" src="Adaptor Pattern Pod.jpg" />
+<img alt="Adaptor Pattern Pod" width="730px" src="images/Adaptor Pattern Pod.jpg" />
 
 **SideCare Pattern Pod working**
 
-<img alt="SideCar Pattern Pod" width="730px" src="SideCar.jpg" />
+<img alt="SideCar Pattern Pod" width="730px" src="images/SideCar.jpg" />
