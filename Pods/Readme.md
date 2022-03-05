@@ -11,6 +11,7 @@
 <img alt="SideCar Pattern Pod" width="730px" src="images/SideCar.jpg" />
 
 # Init Container Pod working
-
-<img alt="Init Container Pod" width="730px" src="images/init-1-2.jpg" />
-<img alt="Init Container Pod" width="730px" src="images/init-2.jpg" />
+<table><tr>
+<td> <img alt="Init Container Pod" style="width: 810px;" src="images/init-1.jpg" /> </td>
+<td> <img alt="Init Container Pod" style="width: 650px;" src="images/init-2.jpg" /> </td>
+</tr></table>
