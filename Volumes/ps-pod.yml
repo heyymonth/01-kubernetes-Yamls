@@ -1,4 +1,30 @@
 apiVersion: v1
+kind: PersistentVolume
+metadata:
+  name: ps-pv
+spec:
+  accessModes:
+  - ReadWriteOnce
+  storageClassName: ps-fast
+  capacity:
+    storage: 50Gi
+  persistentVolumeReclaimPolicy: Retain
+  gcePersistentDisk:  
+    pdName: ps-vol  
+---
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: ps-pvc
+spec:
+  accessModes:
+  - ReadWriteOnce
+  storageClassName: ps-fast
+  resources:
+    requests:
+      storage: 50Gi
+---
+apiVersion: v1
 kind: Pod
 metadata:
   name: first-pod
