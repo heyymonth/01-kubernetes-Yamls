@@ -12,5 +12,5 @@
 
 # Init Container Pod working
 
-<img alt="Init Container Pod" width="730px" src="images/init-1.jpg" />
+<img alt="Init Container Pod" width="730px" src="images/init-1-2.jpg" />
 <img alt="Init Container Pod" width="730px" src="images/init-2.jpg" />
